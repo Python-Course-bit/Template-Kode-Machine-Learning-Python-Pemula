@@ -1,6 +1,6 @@
-============================================================
+#dibuat oleh = py-learn.id
 🤖 TERIMA KASIH TELAH MEMBELI ML STARTER PACK INDONESIA!
-============================================================
+
 
 Langkah mudah untuk menjalankan code di komputer Anda:
 
